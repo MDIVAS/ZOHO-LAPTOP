@@ -87,7 +87,7 @@
 
 ## Built With
 
-Processors
+### Processors
 	       
          Intel(R) Core(TM) Intel Core i5-12400   @ 2.5GHz
     		 Cores: 6
@@ -97,7 +97,7 @@ Processors
     		 L2 Cache: 9.5 MB
     		 L3 Cache: 20 MB
 		
-Memory
+### Memory
 	
 		Manufacturer:Simmtronics Infotech Pvt. Ltd( MADE IN INDIA)
 		Size: 16 GiB
@@ -108,7 +108,7 @@ Memory
 		Total: 4.74 GiB
 		Available : 3.02 GiB
 		Used: 1.72 GiB
-Graphics
+### Graphics
 	
     Intel Iris Xe Graphics G7 80EUs
 
@@ -118,7 +118,7 @@ Graphics
 		Max Refresh Rate: 120 Hz
 
 
-Motherboard
+### Motherboard
 	  
    
     Zoho
@@ -128,7 +128,7 @@ Motherboard
 		Version: Base Board Version
 		
 	
-Storage
+### Storage
 	        
           Disk Drives
 
@@ -141,19 +141,19 @@ Storage
 
           
          
-Audio
+### Audio
       
       Realtek, Direct Sound
        DOLBY ATMOS(INBUILT)
          DUAL SPEAKER
 
 
-Bluetooth 
+### Bluetooth 
        
       Intel® Wireless Bluetooth®
 
 
-Wifi 
+## Wifi 
      
      Intel Wireless-AC 9260 (5GHZ),(2.4GHZ)
 
