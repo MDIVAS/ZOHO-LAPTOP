@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/MDIVAS/ZOHO-LAPTOP">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHU4ZHA2M2htbTQ1OWR0NmxlNjR2ZzNjeDkyNno3bnpkYzFtd3VxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="Logo" width="80" height="80">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHU4ZHA2M2htbTQ1OWR0NmxlNjR2ZzNjeDkyNno3bnpkYzFtd3VxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="Logo" width="640" height="480">
   </a>
 
   <h3 align="center">ZOHO LAPTOP</h3>
